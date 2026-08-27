@@ -1,6 +1,6 @@
 {
-  "engines":{
-    "node":"22.19.0"
+  "engines": {
+    "node": "22.19.0"
   },
   "name": "majorproject",
   "version": "1.0.0",
@@ -12,7 +12,7 @@
   "author": "Vivek Chaudhary",
   "license": "ISC",
   "dependencies": {
-    "cloudinary": "^2.10.1",
+    "cloudinary": "^1.41.3",
     "connect-flash": "^0.1.1",
     "connect-mongo": "^6.0.0",
     "cookie-parser": "^1.4.7",
